@@ -1,6 +1,7 @@
 # ros2mcap
 
-A utility script to batch convert ROS2 bag files to MCAP format.
+> [!TIP]
+> A utility script to batch convert ROS2 bag files to MCAP format.
 
 ## Overview
 
